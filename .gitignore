@@ -1,0 +1,4 @@
+/.vs
+/odoo-web-data
+/odoo-source
+**/*.csv
